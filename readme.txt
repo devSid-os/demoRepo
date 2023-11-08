@@ -1,0 +1,1 @@
+-m stands for message for every commit
