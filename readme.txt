@@ -1,1 +1,2 @@
 -m stands for message for every commit
+-d stands for delete used fir deleting a branch
